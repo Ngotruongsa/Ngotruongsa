@@ -80,7 +80,7 @@
 <p align="center">
 	<a href="mailto:Ngotruongsa2002@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Ngotruongsa"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ng%C3%B4-%C4%91%C4%83ng-tr%C6%B0%E1%BB%9Dng-sa-6732a720b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/ngodangtruongsa/" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/truongsa87"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	
 </p>
